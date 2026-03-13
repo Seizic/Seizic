@@ -1,5 +1,31 @@
 ## Hi there 👋
 
+Aspiring SOC Analyst focused on threat detection, log analysis, and defensive security.
+
+Currently preparing for the CompTIA Security+ certification while building hands-on cybersecurity labs and documenting investigations.
+
+---
+
+### 🔧 Tools & Technologies
+- Wireshark
+- Nmap
+- Linux
+- Networking Fundamentals
+- SIEM Concepts
+
+---
+
+### 📚 Currently Learning
+- Network Security
+- Incident Response
+- Threat Detection
+- Security Operations (SOC)
+
+---
+
+### 🧪 Current Focus
+Building and documenting cybersecurity labs from TryHackMe and home lab environments to develop real-world security analysis skills.
+
 <!--
 **Seizic/Seizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
